@@ -13,18 +13,18 @@
       { "id":"11", "label":"l"}
     ],
     "links":  [
-      { "source":  1,  "target":  0,  "value":  1, "type": "depends" },
-      { "source":  2,  "target":  1,  "value":  8, "type": "depends" },
-      { "source":  3,  "target":  2,  "value":  6, "type": "depends" },
-      { "source":  4,  "target":  3,  "value":  1, "type": "needs" },
-      { "source":  5,  "target":  3,  "value":  1, "type": "needs" },
-      { "source":  6,  "target":  3,  "value":  1, "type": "needs" },
-      { "source":  7,  "target":  3,  "value":  1, "type": "needs" },
-      { "source":  8,  "target":  3,  "value":  2, "type": "needs" },
-      { "source":  9,  "target":  3,  "value":  1, "type": "needs" },
-      { "source": 11,  "target": 10,  "value":  1, "type": "depends" },
-      { "source": 11,  "target":  3,  "value":  3, "type": "depends" },
-      { "source": 11,  "target":  2,  "value":  3, "type": "depends" },
-      { "source": 11,  "target":  3,  "value":  5, "type": "needs" }
+      { "source":  1,  "target":  0 },
+      { "source":  2,  "target":  1 },
+      { "source":  3,  "target":  2 },
+      { "source":  4,  "target":  3},
+      { "source":  5,  "target":  3},
+      { "source":  6,  "target":  3},
+      { "source":  7,  "target":  3},
+      { "source":  8,  "target":  3},
+      { "source":  9,  "target":  3},
+      { "source": 11,  "target": 10},
+      { "source": 11,  "target":  3},
+      { "source": 11,  "target":  2 },
+      { "source": 11,  "target":  3 }
     ]
   }
